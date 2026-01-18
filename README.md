@@ -1,0 +1,2 @@
+# ETL-com-IA-Generativa-Ci-ncia-de-Dados-com-Python---Santander-2025---Corretora-de-Seguros.
+Este projeto é uma **adaptação didática** do desafio da realizado no Bootcamp **Ciência de Dados com Python - Santander 2025**, cujo objetivo foi demonstrar, de forma simples e prática, como funciona um pipeline **ETL (Extract, Transform, Load)** utilizando **Python** e **Inteligência Artificial Generativa**
